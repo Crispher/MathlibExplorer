@@ -2,7 +2,7 @@
 
 # MathlibExplorer
 
-Mathlib explorer is a visualization tool designed specifically for [Lean&#39;s mathlib library](https://github.com/leanprover-community/mathlib4).
+Mathlib explorer is a visualization tool designed for [Lean's mathlib library](https://github.com/leanprover-community/mathlib4).
 It visualizes the import relations between source files in mathlib, and allows users to explore the library in a more intuitive way.
 
 <!-- include screenshots -->
@@ -45,6 +45,7 @@ Run the executable:
 ./MathlibExplorer
 ```
 
-## Credits
+## Other Notes
+Limited testing has been done so far, which is mainly on MacOS (M1).
 
 Cross-platform graphics is powered by [bgfx](https://github.com/bkaradzic/bgfx).
